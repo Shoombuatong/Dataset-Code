@@ -8,4 +8,4 @@ the proposed model PVPred-SCM for making a fair comparison with existing methods
 benchmark dataset consists of 99 PVPs (TR-positive.txt) and 208 non-PVPs (TR-negative.txt), while the independent 
 dataset consists of 30 PVPs (Ind-positive.txt) and 64 non-PVPs (Ind-negative.txt). To validate the robustness of
 the proposed PVPred-SCM, we further tested and compared its performance using another independent dataset derived 
-from Zhang et al’s method [11] (containing 68 PVPs and 92 non-PVPs) (Independent from Zhang et al..xlsx). 
+from Zhang et al’s method [11] (containing 68 PVPs and 92 non-PVPs) (Independent from Zhang et al.xlsx). 
