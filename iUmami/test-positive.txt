@@ -1,0 +1,56 @@
+>Positive 0
+CALTP
+>Positive 1
+AEA
+>Positive 2
+VG
+>Positive 3
+VF
+>Positive 4
+AAPY
+>Positive 5
+VEL
+>Positive 6
+TESSSE
+>Positive 7
+TAY
+>Positive 8
+STMLLESER
+>Positive 9
+SFE
+>Positive 10
+PSE
+>Positive 11
+PAQ
+>Positive 12
+LYER
+>Positive 13
+LEQL
+>Positive 14
+LE
+>Positive 15
+HV
+>Positive 16
+GGNP
+>Positive 17
+GD
+>Positive 18
+EV
+>Positive 19
+EPE
+>Positive 20
+EGF
+>Positive 21
+EED
+>Positive 22
+EDG
+>Positive 23
+EAGIQ
+>Positive 24
+DL
+>Positive 25
+DGG
+>Positive 26
+DEL
+>Positive 27
+DED
