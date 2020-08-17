@@ -1,0 +1,266 @@
+>Positive 0
+IPI
+>Positive 1
+PP
+>Positive 2
+GPPPPGPPPI
+>Positive 3
+IHPFAQ
+>Positive 4
+LAY
+>Positive 5
+LEIVPN
+>Positive 6
+LGYLEQLLR
+>Positive 7
+LLY
+>Positive 8
+VAGTWY
+>Positive 9
+LNFLK
+>Positive 10
+LQSW
+>Positive 11
+QP
+>Positive 12
+LY
+>Positive 13
+RNDDLNYIQ
+>Positive 14
+PAAVR
+>Positive 15
+AL
+>Positive 16
+SPAQILQWQVL
+>Positive 17
+VAPFPEVF
+>Positive 18
+MSPVDPNIE
+>Positive 19
+YPELF
+>Positive 20
+MLPVDPNIE
+>Positive 21
+MHPVDPNIE
+>Positive 22
+YPFPGPI
+>Positive 23
+MNPVDPNIE
+>Positive 24
+LPQNIPPLTQTPV
+>Positive 25
+MDGVDPNIE
+>Positive 26
+MWPLGPASS
+>Positive 27
+TPVVVPPF
+>Positive 28
+TPVVVPPFLQP
+>Positive 29
+MWPTSSSTK
+>Positive 30
+VR
+>Positive 31
+WRN
+>Positive 32
+WRF
+>Positive 33
+QPHQPLPPTVMFPPQS
+>Positive 34
+WRW
+>Positive 35
+WRT
+>Positive 36
+WRY
+>Positive 37
+EPVLGPVRGPFP
+>Positive 38
+WRA
+>Positive 39
+HPIKHQGLPQEV
+>Positive 40
+FAQTQS
+>Positive 41
+LPLPL
+>Positive 42
+FLL
+>Positive 43
+VLVLDTDYK
+>Positive 44
+LPEWVCTTFH
+>Positive 45
+LAHKALCSEK
+>Positive 46
+KAVPYPQRDMP
+>Positive 47
+LCSEKLDQWL
+>Positive 48
+LEE
+>Positive 49
+LGP
+>Positive 50
+FHTSGYDTQA
+>Positive 51
+LNVPGE
+>Positive 52
+LS
+>Positive 53
+LSQSK
+>Positive 54
+LSQSKVLPVPQ
+>Positive 55
+PL
+>Positive 56
+AAATP
+>Positive 57
+LYQEPVLGPVRGPFPIIV
+>Positive 58
+MAPKHKEMPFPKYPVEP
+>Positive 59
+MAGVDHI
+>Positive 60
+PPL
+>Positive 61
+VPITPT
+>Positive 62
+TDGGLLE
+>Positive 63
+FAGGTSGSGV
+>Positive 64
+WC
+>Positive 65
+WT
+>Positive 66
+LW
+>Positive 67
+WF
+>Positive 68
+LAPPG
+>Positive 69
+YINQMPQKSRE
+>Positive 70
+AG
+>Positive 71
+AY
+>Positive 72
+EG
+>Positive 73
+FN
+>Positive 74
+FQ
+>Positive 75
+GH
+>Positive 76
+HH
+>Positive 77
+HR
+>Positive 78
+HS
+>Positive 79
+HW
+>Positive 80
+IN
+>Positive 81
+KF
+>Positive 82
+KG
+>Positive 83
+KS
+>Positive 84
+KT
+>Positive 85
+KW
+>Positive 86
+LM
+>Positive 87
+NQ
+>Positive 88
+NW
+>Positive 89
+PM
+>Positive 90
+PQ
+>Positive 91
+QI
+>Positive 92
+QS
+>Positive 93
+QW
+>Positive 94
+QY
+>Positive 95
+RI
+>Positive 96
+RM
+>Positive 97
+RR
+>Positive 98
+TT
+>Positive 99
+TV
+>Positive 100
+VD
+>Positive 101
+VH
+>Positive 102
+VY
+>Positive 103
+YH
+>Positive 104
+YK
+>Positive 105
+YL
+>Positive 106
+YR
+>Positive 107
+YV
+>Positive 108
+YW
+>Positive 109
+PGPIHNS
+>Positive 110
+LAHKALCSEKL
+>Positive 111
+VRGP
+>Positive 112
+GPAG
+>Positive 113
+INNQFLPYPY
+>Positive 114
+IQKVAGTW
+>Positive 115
+LKPTPEGDLE
+>Positive 116
+APFPEVF
+>Positive 117
+TPVVVPP
+>Positive 118
+QPLPPT
+>Positive 119
+VC
+>Positive 120
+FAGDDAPR
+>Positive 121
+AIV
+>Positive 122
+FLQY
+>Positive 123
+FQLGASPY
+>Positive 124
+ILDL
+>Positive 125
+IIAEK
+>Positive 126
+KRIHF
+>Positive 127
+LLQLEAIR
+>Positive 128
+GLDIQK
+>Positive 129
+MKAVCFSL
+>Positive 130
+NLEIIL
+>Positive 131
+EPMIGVNQEL
+>Positive 132
+EPMIGVNQELA
