@@ -1,0 +1,1 @@
+The S_^+ and S_^- sets contain 165 amyloid and 382 non-amyloid proteins, respectively. To avoid the overfitting problem and obtain a reliable model, we constructed an independent dataset by randomly selecting 20% from the benchmark dataset, while the remaining samples were considered as the training dataset.
