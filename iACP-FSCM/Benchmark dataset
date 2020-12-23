@@ -1,0 +1,1 @@
+The main dataset consists of 861 experimentally validated ACPs and 861 AMPs while the alternative dataset consists of 970 experimentally validated 970 ACPs and 970 random peptides from protein in SwissProt.
