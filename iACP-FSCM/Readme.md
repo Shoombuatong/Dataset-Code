@@ -1,0 +1,1 @@
+In this study, we propose a novel flexible scoring card method (FSCM) making use of propensity scores of local and global sequential information for the development of a sequence-based ACP predictor (named iACP-FSCM) for improving the prediction accuracy and model interpretability. 
